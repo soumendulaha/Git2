@@ -8,6 +8,8 @@ public class TestClass {
 		System.out.println("This is a test class");
 		System.out.println("Clone kora hoe gche");
 		System.out.println("Now adding something from github");
+		System.out.println("DHINKACHIKA DHINKAHIKA");
+		
 
 	}
 
