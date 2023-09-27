@@ -9,6 +9,8 @@ public class TestClass {
 		System.out.println("Clone kora hoe gche");
 		System.out.println("Now adding something from github");
 		System.out.println("DHINKACHIKA DHINKAHIKA");
+		System.out.println("Now testing ");
+	
 		
 
 	}
